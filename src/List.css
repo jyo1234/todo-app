@@ -1,0 +1,12 @@
+.LgScrollable {
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.List {
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
